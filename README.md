@@ -20,7 +20,7 @@
   
  <div>
       
-   ![Snake animation](https://github.com/Spanserki/guilhermespanserki/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Spanserki/Spanserki/blob/output/github-contribution-grid-snake.svg)
       
  </div>
   
