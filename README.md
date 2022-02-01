@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo ao meu perfil, meu nome é Guilherme Spanserki
 
-- 👨‍💻 Hoje trabalho com C#
+- 👨‍💻 Hoje trabalho com desenvolvimento em C#
 - 📚 Estudando Tads, POO em C#, SQL server e Angular 
 
 <div align="left">
