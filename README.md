@@ -1,4 +1,4 @@
-## Olá, seja bem vindo ao meu perfil, meu nome é Guilherme Spanserki
+## Olá, seja bem vindo ao meu perfil, meu nome é Guilherme Spanserki :smile:
 
 - 👨‍💻 Hoje trabalho com desenvolvimento em C#
 - 📚 4 período de graduação na Universidade Uninter
