@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo ao meu perfil, meu nome é Guilherme Spanserki
 
 - 👨‍💻 Hoje trabalho com desenvolvimento em C#
-- 📚 3 período de graduação na Universidade Uninter
+- 📚 4 período de graduação na Universidade Uninter
 
 <div align="left">
   <a href="https://github.com/Spanserki">
