@@ -5,8 +5,8 @@
 - 🚀 Aluno na Rocketseat.
 
 <div style="display: flex; flex-direction: row;">
-    <img align="left" height="250" width="400em" alt="coding-time" src="https://github.com/Spanserki/nextjs-leafletmap/assets/97187822/061a0ea9-848f-4cde-b7a6-490ac95642b5">    
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanserki&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_public=true"/>
+    <img align="left" height="200" width="300em" alt="coding-time" src="https://github.com/Spanserki/nextjs-leafletmap/assets/97187822/061a0ea9-848f-4cde-b7a6-490ac95642b5">    
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanserki&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_public=true"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Spanserki&bg_color=0a0a0a&color=ffffff&line=3b55b5&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
