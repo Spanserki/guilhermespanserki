@@ -1,22 +1,26 @@
-## Olá, seja bem vindo ao meu perfil, meu nome é Guilherme Spanserki :smile:
+## Olá, seja bem-vindo ao meu perfil! 😄
 
-- 👨‍💻 Hoje trabalho com desenvolvimento Web
-- 📚 Graduando Análise e desenvolvimento de sistemas na Uninter
-- 📚 Aluno na Rocketseat
+- 👨‍💻 Hoje trabalho com desenvolvimento web.
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas na Uninter.
+- 🚀 Aluno na Rocketseat.
 
-<div align="left">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanserki&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_public=true"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center"  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img align="center"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img align="center"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center"  src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
-  <img align="center"  src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <img align="left" height="250" alt="coding-time" src="https://github.com/Spanserki/nextjs-leafletmap/assets/97187822/061a0ea9-848f-4cde-b7a6-490ac95642b5">    
   </div>
-          
-  ![Snake animation](https://github.com/Spanserki/guilhermespanserki/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanserki&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_public=true"/>
+  </div>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Spanserki&bg_color=0a0a0a&color=ffffff&line=3b55b5&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <div style="display: flex, gap: 10px">
+    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  </div>
