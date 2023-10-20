@@ -1,7 +1,7 @@
-## Olá, seja bem-vindo ao meu perfil! 😄
+## Hello, welcome! 😄
 
-- 👨‍💻 Hoje trabalho com desenvolvimento de software.
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas na Uninter.
+- 👨‍💻 Desenvolvedor de software.
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas.
 
 <div style="display: flex; flex-direction: row;">
     <img align="left" height="200" width="300em" alt="coding-time" src="https://github.com/Spanserki/nextjs-leafletmap/assets/97187822/061a0ea9-848f-4cde-b7a6-490ac95642b5">    
